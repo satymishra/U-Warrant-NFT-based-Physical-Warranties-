@@ -5,7 +5,7 @@
 3. Siddharth Majumdar (gizzmosid)
 
 
-## This is how to RUN the apps on localhost
+## How to run the apps on localhost
 1. Go to the SellerWarranty folder and open cmd and type 
 npm i 
 npx hardhat run scripts/deploy.js --network mumbai && npm run dev
