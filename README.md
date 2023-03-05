@@ -15,8 +15,7 @@ npx hardhat run scripts/deploy.js --network mumbai && npm run dev
 3. Open the ecom-backend and ecom-frontend folders and open cmd here in both separately 
 and type following in both separately.
 npm i
-npx nodemon@latest server.js
-(also press y if it asks that port is busy)
+npx nodemon@latest server.js (also press y if it asks that port is busy)
 
 4.This is the user side and can run on http://localhost:3001/
 
