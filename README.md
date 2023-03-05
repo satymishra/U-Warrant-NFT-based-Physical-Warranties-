@@ -26,3 +26,9 @@ see the seller received the order and click on create warranty.
 installing metamask extension and creating a wallet.
 
 7. view the NFT on ipfs and its warranty.
+
+## Note : 
+A small video demonstration is provided to understand the overall workflow by the name of NetajihackersF.mp4.
+A pdf is also provided for more understanding.
+
+
